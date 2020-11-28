@@ -24,21 +24,21 @@
                 <center>
                     
                     <h1> -:  شــاشة عـرض التقاريــر</h1>
-                    <button onclick="document.location.href='M40.php';">
+                    <div class="button">
                         <a href="M40.php"><h2>تقـارير المـركــز</h2></a>
-                        </button>
+                        </div>
                         <br>
                         <br>
-                        <button onclick="document.location.href='M40.php';">
+                        <div class="button">
                             <a href="M40.php"><h2>تقـارير المـخــزن</h2></a>
-                            </button>
+                            </div>
 
                             <br>
                             <br> 
                         <br>
-                        <button onclick="document.location.href='index20.php';">
+                        <div class="button">
                             <a href="index20.php"><h2> الرجــوع الا شاشةالمديـر العام</h2></a>
-                            </button>
+                            </div>
 
                             <br>
                             <br>      

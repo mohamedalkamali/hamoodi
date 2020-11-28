@@ -25,33 +25,35 @@
                     <h1>  -: شـــاشةالمديـر العام </h1>
                     </form>
                 <center>
-                    <button onclick="document.location.href='index7.php';">
+                    <div class="button">
                         <a href="index7.php"><h2>تسجيل بيانات المركــز</h2></a>
+                    </div>
                         
-                        <button onclick="document.location.href='index2.php';">
+                        <div class="button">
                             
                             <a href="index2.php"><h2>أضــــافـة المستخدم</h2></a>
-                            </button>
+                            </div>
 
                             <br>
                             <br>
 
                             
-                            <button onclick="document.location.href='index5.php';">
+                            <div class="button">
                                 <a href="index5.php"><h2> عـرض التقارير</h2></a>
+                            </div>
                                 
-                            <button onclick="document.location.href='index9.php';">
+                            <div class="button">
                                 <a href="index9.php"><h2> أدراة المستخدمـين</h2></a>
                 
-                            </button>
+                            </div>
 
                             
                             <br>
                             <br> 
                         <br>
-                        <button onclick="document.location.href='index12.php';">
+                        <div class="button">
                             <a href="index12.php"><h2> للـرجوع الا شاشة التسجيل من جديد</h2></a>
-                            </button>
+                            </div>
 
                             <br>
                             <br>   

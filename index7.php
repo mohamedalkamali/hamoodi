@@ -34,10 +34,10 @@
                 <font color='#fffff'>
                 <center>
                     
-                <button onclick="document.location.href='M40.php';">
+                <div class="button">
                   
                     <a href="M40.php"><p> الرجوع الا شاشة المديـر العام</p></a> 
-                    </button>
+                    </div>
                 </center>
                 </form>
             

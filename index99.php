@@ -41,10 +41,10 @@
                 <font color='#fffff'>
                 <center>
                     
-                <button onclick="document.location.href='index10.php';">
+                <div class="button">
                   
                     <a href="index10.php"><p>الرجوع الا الشاشة مدير المخـزن</p></a> 
-                    </button>
+                    </div>
                 </center>
                 </form>
             

@@ -21,22 +21,22 @@
                 
                 <center>
 
-                    <button onclick="document.location.href='index3.php';">
+                    <div class="button">
                         <a href="index3.php"><h2>فــواتير البيــع</h2></a>
-                            </button>
+                            </div>
 
                             <br>
                             <br>      
-            <button onclick="document.location.href='index3.php';">
+            <div class="button">
                             <a href="index3.php"><h2>فــواتير المشتـريـات</h2></a>
-                            </button>
+                            </div>
 
                             <br>
                             <br>      
-            <button onclick="document.location.href='index1.php';">
+            <div class="button">
               
                 <a href="index1.php"><h3>الرجوع الا شاشة المديـر</h3></a> 
-                </button>
+                </div>
             </center>
 
 

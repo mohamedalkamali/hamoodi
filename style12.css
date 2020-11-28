@@ -35,7 +35,7 @@ body{
 }
 
 
-button{
+.button{
     
     width: 520px;
     height: 420px;
@@ -51,6 +51,9 @@ button{
     border-radius: 60px;
 }
 
+.button a h2 {
+    padding-top: 12px;
+}
 
 .login-box input[type="submit"]:hover
 {

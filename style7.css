@@ -32,7 +32,7 @@ body{
     left: calc(50% - 50px);
 }
 
-button{
+.button{
      button: 20px;
     outline: none;
     height: 40px;
@@ -41,7 +41,9 @@ button{
     font-size: 17px;
     border-radius: 20px;
 }
-
+.button a h2 {
+    padding-top: 12px;
+}
 
 h1{
     margin: 0;

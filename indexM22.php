@@ -29,10 +29,10 @@
                     <br>
                     
                 <center>
-                    <button onclick="document.location.href='index50.php';">
+                    <div class="button">
                         <a href="index50.php"><h2>الرجــوع الا شاشة مدير المرير المركز</h2></a>
                         
-                    </button>
+                    </div>
                           </center>  
                             <br>
                             <br>   

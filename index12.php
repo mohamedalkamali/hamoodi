@@ -16,7 +16,7 @@
         <center>            <img src="f77.png" class="avatar">
         </center>
         <br>
-        <br>
+        <b
             <form>
                 <font color='ffffff'>
 
@@ -24,28 +24,28 @@
                 <center>
                     
                     <h1> -:  شــاشة المــركـز الرئيسيـة</h1>
-                    <button onclick="document.location.href='index50.php';">
+                    <div class="button">
                         <a href="index50.php"><h2>الدخول للمدير  المــركـز أضغط هنا</h2></a>
-                        </button>
+                        </div>
 
                         <br>
                         <br> 
-                    <button onclick="document.location.href='index20.php';">
+                    <div class="button">
                         <a href="index20.php"><h2>الدخول للمدير العام أضغط هنا</h2></a>
-                        </button>
+                        </div>
                         <br>
                         <br>
-                        <button onclick="document.location.href='index10.php';">
+                        <div class="button">
                             <a href="index10.php"><h2>الدخول لمدير  المخــزن أضغط هنا</h2></a>
-                            </button>
+                            </div>
 
                             <br>
                             <br> 
                             
                         <br>
-                        <button onclick="document.location.href='index750.php';">
+                        <div class="button">
                             <a href="index750.php"><h2> للـرجوع الا شاشة التسجيل من جديد اضغظ هنا</h2></a>
-                            </button>
+                            </div>
 
                             <br>
                             <br>      

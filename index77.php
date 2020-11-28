@@ -38,10 +38,10 @@
                 <font color='#fffff'>
                 <center>
                     
-                <button onclick="document.location.href='index1.php';">
+                <div class="button">
                   
                     <a href="index1.php"><p>الرجوع الا شاشة المديـر</p></a> 
-                    </button>
+                    </div>
                 </center>
                 </form>
             

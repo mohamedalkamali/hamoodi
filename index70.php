@@ -35,10 +35,10 @@
             <font color='#fffff'>
             <center>
                 
-            <button onclick="document.location.href='index50.php';">
+            <div class="button">
               
                 <a href="index50.php"><p>الرجوع الا شاشة  مـدير المـزكز</p></a> 
-                </button>
+                </div>
             </center>
             </form>
         

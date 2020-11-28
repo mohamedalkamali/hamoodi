@@ -27,9 +27,9 @@
                             <br>
                             <br> 
                         <br>
-                        <button onclick="document.location.href='index12.php';">
+                        <div class="button">
                             <a href="index12.php"><h2> للـرجوع الا شاشة التسجيل من جديد</h2></a>
-                            </button>
+                            </div>
 
                             <br>
                             <br>   

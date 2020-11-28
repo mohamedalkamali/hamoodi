@@ -20,33 +20,33 @@
                     <h1>  -: ادارة المستخدمـين</h1>
                 
                 <center>
-                    <button onclick="document.location.href='M40.php';">
+                    <div class="button">
                         <a href="M40.php"><h2>حـــذف المستخـدم</h2></a>
-                        </button>
+                        </div>
                         <br>
                         <br>
-                        <button onclick="document.location.href='M40.php';">
+                        <div class="button">
                             <a href="M40.php"><h2>تعـديل المستخـدم</h2></a>
-                            </button>
+                            </div>
 
                             <br>
                             <br>    
-                            <button onclick="document.location.href='M40.php';">
+                            <div class="button">
                                 <a href="M40.php"><h2>عــرض المستخــدمين</h2></a>
-                                </button>
+                                </div>
     
                                 <br>
                                 <br>  
-                                <button onclick="document.location.href='M40.php';">
+                                <div class="button">
                                     <a href="M40.php"><h2>ادارة الصــلاحيـــة</h2></a>
-                                    </button>
+                                    </div>
         
                                     <br>
                                     <br>
-            <button onclick="document.location.href='index20.php';">
+            <div class="button">
               
                 <a href="index20.php"><h3> الرجوع الا شاشة المديـر العام</h3></a> 
-                </button>
+                </div>
             </center>
 
 

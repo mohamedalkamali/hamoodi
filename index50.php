@@ -6,7 +6,7 @@
     <meta name="viewpor" content=" width=device-width, initial-scale=1.8">
 
     <title>المدير العام</title>
-    <link rel="stylesheet" type="text/css" href="style20.css">   
+    <link rel="stylesheet" type="text/css" href="style20.css"> 
 </head>
 <body bgcolor="#ffddf7">
     <center>
@@ -25,33 +25,33 @@
                     <h1>  -: شـــاشةالمديـر المركــز </h1>
                     </form>
                 <center>
-                    <button onclick="document.location.href='index80.php';">
+                    <div class="button">
                         <a href="index80.php"><h2>عــرض الفـواتير</h2></a>
-                        
-                        <button onclick="document.location.href='index70.php';">
+                        </div>
+                        <div class="button">
                             
                             <a href="index70.php"><h2>أضــــافـة منتجــات</h2></a>
-                            </button>
+                            </div>
 
                             <br>
                             <br>
 
                             
-                            <button onclick="document.location.href='index80.php';">
+                            <div class="button">
                                 <a href="index80.php"><h2> عـرض تقارير المركز</h2></a>
-                                
-                            <button onclick="document.location.href='index80.php';">
+                                </div>
+                            <div class="button">
                                 <a href="index80.php"><h2>  عــرض منتجـات المـركز</h2></a>
                 
-                            </button>
+                            </div>
 
                             
                             <br>
                             <br> 
                         <br>
-                        <button onclick="document.location.href='index12.php';">
+                        <div class="button">
                             <a href="index12.php"><h2> الـرجوع الا شاشة  الرئيسية</h2></a>
-                            </button>
+                            </div>
 
                             <br>
                             <br>   

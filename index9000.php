@@ -29,10 +29,10 @@
                     <br>
                     
                 <center>
-                    <button onclick="document.location.href='index10.php';">
+                    <div class="button">
                         <a href="index10.php"><h2>الرجــوع الا شاشة مدير المخـزن</h2></a>
                         
-                    </button>
+                    </div>
                           </center>  
                             <br>
                             <br>   
