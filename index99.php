@@ -43,7 +43,7 @@
                     
                 <button>
                   
-                    <a href="index10.php"target="-blank"><p>الرجوع الا الشاشة مدير المخـزن</p></a> 
+                    <a href="index10.php" target="_blank"><p>الرجوع الا الشاشة مدير المخـزن</p></a> 
                     </button>
                 </center>
                 </form>

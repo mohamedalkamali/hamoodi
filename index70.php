@@ -37,7 +37,7 @@
                 
             <button>
               
-                <a href="index50.php"target="-blank"><p>الرجوع الا شاشة  مـدير المـزكز</p></a> 
+                <a href="index50.php" target="_blank"><p>الرجوع الا شاشة  مـدير المـزكز</p></a> 
                 </button>
             </center>
             </form>

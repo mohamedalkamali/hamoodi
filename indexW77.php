@@ -30,7 +30,7 @@
                     
                 <center>
                     <button>
-                        <a href="index50.php"target="-blank"><h2>الرجــوع الا شاشة مدير المرير المركز</h2></a>
+                        <a href="index50.php" target="_blank"><h2>الرجــوع الا شاشة مدير المرير المركز</h2></a>
                         
                     </button>
                           </center>  

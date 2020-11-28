@@ -25,18 +25,18 @@
                     
                     <h1> -:  شــاشة المــركـز الرئيسيـة</h1>
                     <button>
-                        <a href="index50.php"target="-blank"><h2>الدخول للمدير  المــركـز أضغط هنا</h2></a>
+                        <a href="index50.php" target="_blank"><h2>الدخول للمدير  المــركـز أضغط هنا</h2></a>
                         </button>
 
                         <br>
                         <br> 
                     <button>
-                        <a href="index20.php"target="-blank"><h2>الدخول للمدير العام أضغط هنا</h2></a>
+                        <a href="index20.php" target="_blank"><h2>الدخول للمدير العام أضغط هنا</h2></a>
                         </button>
                         <br>
                         <br>
                         <button>
-                            <a href="index10.php"target="-blank"><h2>الدخول لمدير  المخــزن أضغط هنا</h2></a>
+                            <a href="index10.php" target="_blank"><h2>الدخول لمدير  المخــزن أضغط هنا</h2></a>
                             </button>
 
                             <br>
@@ -44,7 +44,7 @@
                             
                         <br>
                         <button>
-                            <a href="index750.php"target="-blank"><h2> للـرجوع الا شاشة التسجيل من جديد اضغظ هنا</h2></a>
+                            <a href="index750.php" target="_blank"><h2> للـرجوع الا شاشة التسجيل من جديد اضغظ هنا</h2></a>
                             </button>
 
                             <br>

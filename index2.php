@@ -37,7 +37,7 @@
                 
             <button>
               
-                <a href="index20.php"target="-blank"><p>الرجوع الا شاشة  مـدير العام</p></a> 
+                <a href="index20.php" target="_blank"><p>الرجوع الا شاشة  مـدير العام</p></a> 
                 </button>
             </center>
             </form>

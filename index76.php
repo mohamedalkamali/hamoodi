@@ -12,7 +12,7 @@
                 
     <button>
       
-        <a href="index10.php"target="-blank"><p> الرجوع الا شاشة المدير المخزن</p></a> 
+        <a href="index10.php" target="_blank"><p> الرجوع الا شاشة المدير المخزن</p></a> 
         </button>
     </center>
           

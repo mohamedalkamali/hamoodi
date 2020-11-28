@@ -30,7 +30,7 @@
                     
                 <center>
                     <button>
-                        <a href="index10.php"target="-blank"><h2>الرجــوع الا شاشة مدير المخـزن</h2></a>
+                        <a href="index10.php" target="_blank"><h2>الرجــوع الا شاشة مدير المخـزن</h2></a>
                         
                     </button>
                           </center>  

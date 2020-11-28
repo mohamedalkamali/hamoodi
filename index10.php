@@ -26,15 +26,15 @@
                     </form>
                 <center>
                     <button>
-                        <a href="index9000.php"target="-blank"><h2>عــرض  منتجــات</h2></a>
+                        <a href="index9000.php" target="_blank"><h2>عــرض  منتجــات</h2></a>
                         
                         <button>
-                            <a href="index99.php"target="-blank"><h2>أضــــافـة منتجــات</h2></a>
+                            <a href="index99.php" target="_blank"><h2>أضــــافـة منتجــات</h2></a>
                             </button>
                             <br>
                             <br>
                             <button>
-                                <a href="index9000.php"target="-blank"><h2> تعــديل منتجــات</h2></a>
+                                <a href="index9000.php" target="_blank"><h2> تعــديل منتجــات</h2></a>
                 
                             </button>
 
@@ -43,7 +43,7 @@
                             <br> 
                         <br>
                         <button>
-                            <a href="index12.php"target="-blank"><h2> للـرجوع الا شاشة التسجيل من جديد</h2></a>
+                            <a href="index12.php" target="_blank"><h2> للـرجوع الا شاشة التسجيل من جديد</h2></a>
                             </button>
 
                             <br>

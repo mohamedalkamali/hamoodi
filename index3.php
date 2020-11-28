@@ -12,7 +12,7 @@
                 
     <button>
       
-        <a href="index20.php"target="-blank"><p>الرجوع الا شاشة المدير</p></a> 
+        <a href="index20.php" target="_blank"><p>الرجوع الا شاشة المدير</p></a> 
         </button>
     </center>
 
