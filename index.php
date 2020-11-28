@@ -1,2 +1,2 @@
 <?php
-	header("Location: http://alkmaly.herokuapp.com");
+	header("Location: http://alkamaly.herokuapp.com");
