@@ -1,5 +1,3 @@
-<?php
-?>
 <! DOCTYPE html>
 
 <html dir="rtl">
@@ -52,8 +50,11 @@
             
             
             </div>
-        
-                                    
+               
+<?php
+?>
 
-        </body>
-    </html>
+       <br>
+        
+</body>
+</html>

@@ -1,3 +1,5 @@
+<?php
+<?
 <! DOCTYPE html>
 <html>
 <head>
@@ -32,11 +34,7 @@
         
         
         </div>
+          
         
-<?php
-?>
-
-       <br>
-        
-</body>
+    </body>
 </html>

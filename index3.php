@@ -1,5 +1,3 @@
-<?php
-?>
 <! DOCTYPE html>
 <html>
 <head>
@@ -18,6 +16,11 @@
         </button>
     </center>
 
+        
+<?php
+?>
 
-    </body>
+       <br>
+        
+</body>
 </html>

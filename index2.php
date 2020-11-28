@@ -1,6 +1,4 @@
-<?php
-?>
-<! DOCTYPE html>
+ <! DOCTYPE html>
 <html dir="rtl">
 <head>
     <meta charset="utf-8">
@@ -21,7 +19,7 @@
         <img src="f77.png" class="avatar">
 
         <form action="M40.php"method"="post">
-            <form action="index1.html"method"="post">
+            <form action="index1.php"method"="post">
             <p> أسم المستخدم :- </p>
             <input type="text" name="username" placeholder=>
             <p>رقم المستخدم :- </p>
@@ -46,7 +44,11 @@
         
         
         </div>
-            
+           
+<?php
+?>
 
-    </body>
+       <br>
+        
+</body>
 </html>
