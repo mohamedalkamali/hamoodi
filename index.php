@@ -1,3 +1,3 @@
 <?php
-	header("Location: http://alkamaly.herokuapp.com/login1.php");
+	header("Location: http://alkamaly.herokuapp.com/index750.php");
 	die();
