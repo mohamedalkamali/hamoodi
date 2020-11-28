@@ -29,10 +29,10 @@
                     <br>
                     
                 <center>
-                    
-                        <a href="index20.php" target="_blank"><h2>الرجــوع الا شاشة مدير المرير العام</h2></a>
+                    <button onclick="document.location.href='index20.php';">
+                        <a href="index20.php"><h2>الرجــوع الا شاشة مدير المرير العام</h2></a>
                         
-                    
+                    </button>
                           </center>  
                             <br>
                             <br>   

@@ -25,33 +25,33 @@
                     <h1>  -: شـــاشةالمديـر العام </h1>
                     </form>
                 <center>
-                    
-                        <a href="index7.php" target="_blank"><h2>تسجيل بيانات المركــز</h2></a>
+                    <button onclick="document.location.href='index7.php';">
+                        <a href="index7.php"><h2>تسجيل بيانات المركــز</h2></a>
                         
-                        
+                        <button onclick="document.location.href='index2.php';">
                             
-                            <a href="index2.php" target="_blank"><h2>أضــــافـة المستخدم</h2></a>
-                            
+                            <a href="index2.php"><h2>أضــــافـة المستخدم</h2></a>
+                            </button>
 
                             <br>
                             <br>
 
                             
-                            
-                                <a href="index5.php" target="_blank"><h2> عـرض التقارير</h2></a>
+                            <button onclick="document.location.href='index5.php';">
+                                <a href="index5.php"><h2> عـرض التقارير</h2></a>
                                 
-                            
-                                <a href="index9.php" target="_blank"><h2> أدراة المستخدمـين</h2></a>
+                            <button onclick="document.location.href='index9.php';">
+                                <a href="index9.php"><h2> أدراة المستخدمـين</h2></a>
                 
-                            
+                            </button>
 
                             
                             <br>
                             <br> 
                         <br>
-                        
-                            <a href="index12.php" target="_blank"><h2> للـرجوع الا شاشة التسجيل من جديد</h2></a>
-                            
+                        <button onclick="document.location.href='index12.php';">
+                            <a href="index12.php"><h2> للـرجوع الا شاشة التسجيل من جديد</h2></a>
+                            </button>
 
                             <br>
                             <br>   

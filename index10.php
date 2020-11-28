@@ -25,26 +25,27 @@
                     <h1>  -: شاشـة مدير المخـزن</h1>
                     </form>
                 <center>
-                    
-                        <a href="index9000.php" target="_blank"><h2>عــرض  منتجــات</h2></a>
+                    <button onclick="document.location.href='index9000.php';">
+                        <a href="index9000.php"target="-blank"><h2>عــرض  منتجــات</h2></a>
+                    </button>
                         
-                        
-                            <a href="index99.php" target="_blank"><h2>أضــــافـة منتجــات</h2></a>
-                            
+                        <button onclick="document.location.href='index99.php';">
+                            <a href="index99.php"><h2>أضــــافـة منتجــات</h2></a>
+                            </button>
                             <br>
                             <br>
-                            
-                                <a href="index9000.php" target="_blank"><h2> تعــديل منتجــات</h2></a>
+                            <button onclick="document.location.href='index9000.php';">
+                                <a href="index9000.php"><h2> تعــديل منتجــات</h2></a>
                 
-                            
+                            </button>
 
                             
                             <br>
                             <br> 
                         <br>
-                        
-                            <a href="index12.php" target="_blank"><h2> للـرجوع الا شاشة التسجيل من جديد</h2></a>
-                            
+                        <button onclick="document.location.href='index12.php';">
+                            <a href="index12.php"><h2> للـرجوع الا شاشة التسجيل من جديد</h2></a>
+                            </button>
 
                             <br>
                             <br>   

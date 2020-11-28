@@ -16,7 +16,7 @@
         <center>            <img src="f77.png" class="avatar">
         </center>
         <br>
-        <b
+        <br>
             <form>
                 <font color='ffffff'>
 
@@ -24,28 +24,28 @@
                 <center>
                     
                     <h1> -:  شــاشة المــركـز الرئيسيـة</h1>
-                    
-                        <a href="index50.php" target="_blank"><h2>الدخول للمدير  المــركـز أضغط هنا</h2></a>
-                        
+                    <button onclick="document.location.href='index50.php';">
+                        <a href="index50.php"><h2>الدخول للمدير  المــركـز أضغط هنا</h2></a>
+                        </button>
 
                         <br>
                         <br> 
-                    
-                        <a href="index20.php" target="_blank"><h2>الدخول للمدير العام أضغط هنا</h2></a>
-                        
+                    <button onclick="document.location.href='index20.php';">
+                        <a href="index20.php"><h2>الدخول للمدير العام أضغط هنا</h2></a>
+                        </button>
                         <br>
                         <br>
-                        
-                            <a href="index10.php" target="_blank"><h2>الدخول لمدير  المخــزن أضغط هنا</h2></a>
-                            
+                        <button onclick="document.location.href='index10.php';">
+                            <a href="index10.php"><h2>الدخول لمدير  المخــزن أضغط هنا</h2></a>
+                            </button>
 
                             <br>
                             <br> 
                             
                         <br>
-                        
-                            <a href="index750.php" target="_blank"><h2> للـرجوع الا شاشة التسجيل من جديد اضغظ هنا</h2></a>
-                            
+                        <button onclick="document.location.href='index750.php';">
+                            <a href="index750.php"><h2> للـرجوع الا شاشة التسجيل من جديد اضغظ هنا</h2></a>
+                            </button>
 
                             <br>
                             <br>      

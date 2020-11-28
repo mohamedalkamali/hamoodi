@@ -35,10 +35,10 @@
             <font color='#fffff'>
             <center>
                 
-            
+            <button onclick="document.location.href='index20.php';">
               
-                <a href="index20.php" target="_blank"><p>الرجوع الا شاشة  مـدير العام</p></a> 
-                
+                <a href="index20.php"><p>الرجوع الا شاشة  مـدير العام</p></a> 
+                </button>
             </center>
             </form>
         

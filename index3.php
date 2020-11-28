@@ -10,10 +10,10 @@
         <center> 
     <img src="f77.png" class="avatar">
                 
-    
+    <button onclick="document.location.href='index20.php';">
       
-        <a href="index20.php" target="_blank"><p>الرجوع الا شاشة المدير</p></a> 
-        
+        <a href="index20.php"><p>الرجوع الا شاشة المدير</p></a> 
+        </button>
     </center>
 
         
