@@ -25,33 +25,33 @@
                     <h1>  -: شـــاشةالمديـر المركــز </h1>
                     </form>
                 <center>
-                    <button>
+                    
                         <a href="index80.php" target="_blank"><h2>عــرض الفـواتير</h2></a>
                         
-                        <button>
+                        
                             
                             <a href="index70.php" target="_blank"><h2>أضــــافـة منتجــات</h2></a>
-                            </button>
+                            
 
                             <br>
                             <br>
 
                             
-                            <button>
+                            
                                 <a href="index80.php" target="_blank"><h2> عـرض تقارير المركز</h2></a>
                                 
-                            <button>
+                            
                                 <a href="index80.php" target="_blank"><h2>  عــرض منتجـات المـركز</h2></a>
                 
-                            </button>
+                            
 
                             
                             <br>
                             <br> 
                         <br>
-                        <button>
+                        
                             <a href="index12.php" target="_blank"><h2> الـرجوع الا شاشة  الرئيسية</h2></a>
-                            </button>
+                            
 
                             <br>
                             <br>   

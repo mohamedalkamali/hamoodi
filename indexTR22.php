@@ -27,9 +27,9 @@
                             <br>
                             <br> 
                         <br>
-                        <button>
+                        
                             <a href="index12.php" target="_blank"><h2> للـرجوع الا شاشة التسجيل من جديد</h2></a>
-                            </button>
+                            
 
                             <br>
                             <br>   

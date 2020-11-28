@@ -35,10 +35,10 @@
             <font color='#fffff'>
             <center>
                 
-            <button>
+            
               
                 <a href="index20.php" target="_blank"><p>الرجوع الا شاشة  مـدير العام</p></a> 
-                </button>
+                
             </center>
             </form>
         

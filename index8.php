@@ -21,22 +21,22 @@
                 
                 <center>
 
-                    <button>
+                    
                         <a href="index3.php" target="_blank"><h2>فــواتير البيــع</h2></a>
-                            </button>
+                            
 
                             <br>
                             <br>      
-            <button>
+            
                             <a href="index3.php" target="_blank"><h2>فــواتير المشتـريـات</h2></a>
-                            </button>
+                            
 
                             <br>
                             <br>      
-            <button>
+            
               
                 <a href="index1.php" target="_blank"><h3>الرجوع الا شاشة المديـر</h3></a> 
-                </button>
+                
             </center>
 
 

@@ -24,21 +24,21 @@
                 <center>
                     
                     <h1> -:  شــاشة عـرض التقاريــر</h1>
-                    <button>
+                    
                         <a href="M40.php" target="_blank"><h2>تقـارير المـركــز</h2></a>
-                        </button>
+                        
                         <br>
                         <br>
-                        <button>
+                        
                             <a href="M40.php" target="_blank"><h2>تقـارير المـخــزن</h2></a>
-                            </button>
+                            
 
                             <br>
                             <br> 
                         <br>
-                        <button>
+                        
                             <a href="index20.php " target="_blank"><h2> الرجــوع الا شاشةالمديـر العام</h2></a>
-                            </button>
+                            
 
                             <br>
                             <br>      

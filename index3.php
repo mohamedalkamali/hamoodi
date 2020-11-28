@@ -10,10 +10,10 @@
         <center> 
     <img src="f77.png" class="avatar">
                 
-    <button>
+    
       
         <a href="index20.php" target="_blank"><p>الرجوع الا شاشة المدير</p></a> 
-        </button>
+        
     </center>
 
         

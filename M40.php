@@ -29,10 +29,10 @@
                     <br>
                     
                 <center>
-                    <button>
+                    
                         <a href="index20.php" target="_blank"><h2>الرجــوع الا شاشة مدير المرير العام</h2></a>
                         
-                    </button>
+                    
                           </center>  
                             <br>
                             <br>   

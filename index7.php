@@ -34,10 +34,10 @@
                 <font color='#fffff'>
                 <center>
                     
-                <button>
+                
                   
                     <a href="M40.php" target="_blank"><p> الرجوع الا شاشة المديـر العام</p></a> 
-                    </button>
+                    
                 </center>
                 </form>
             

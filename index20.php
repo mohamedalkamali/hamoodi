@@ -25,33 +25,33 @@
                     <h1>  -: شـــاشةالمديـر العام </h1>
                     </form>
                 <center>
-                    <button>
+                    
                         <a href="index7.php" target="_blank"><h2>تسجيل بيانات المركــز</h2></a>
                         
-                        <button>
+                        
                             
                             <a href="index2.php" target="_blank"><h2>أضــــافـة المستخدم</h2></a>
-                            </button>
+                            
 
                             <br>
                             <br>
 
                             
-                            <button>
+                            
                                 <a href="index5.php" target="_blank"><h2> عـرض التقارير</h2></a>
                                 
-                            <button>
+                            
                                 <a href="index9.php" target="_blank"><h2> أدراة المستخدمـين</h2></a>
                 
-                            </button>
+                            
 
                             
                             <br>
                             <br> 
                         <br>
-                        <button>
+                        
                             <a href="index12.php" target="_blank"><h2> للـرجوع الا شاشة التسجيل من جديد</h2></a>
-                            </button>
+                            
 
                             <br>
                             <br>   

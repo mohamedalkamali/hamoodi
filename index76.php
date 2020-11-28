@@ -10,10 +10,10 @@
         <center> 
     <img src="f77.png" class="avatar">
                 
-    <button>
+    
       
         <a href="index10.php" target="_blank"><p> الرجوع الا شاشة المدير المخزن</p></a> 
-        </button>
+        
     </center>
           
 <?php

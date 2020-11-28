@@ -41,10 +41,10 @@
                 <font color='#fffff'>
                 <center>
                     
-                <button>
+                
                   
                     <a href="index10.php" target="_blank"><p>الرجوع الا الشاشة مدير المخـزن</p></a> 
-                    </button>
+                    
                 </center>
                 </form>
             

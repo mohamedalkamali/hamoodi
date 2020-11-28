@@ -20,33 +20,33 @@
                     <h1>  -: ادارة المستخدمـين</h1>
                 
                 <center>
-                    <button>
+                    
                         <a href="M40.php" target="_blank"><h2>حـــذف المستخـدم</h2></a>
-                        </button>
+                        
                         <br>
                         <br>
-                        <button>
+                        
                             <a href="M40.php" target="_blank"><h2>تعـديل المستخـدم</h2></a>
-                            </button>
+                            
 
                             <br>
                             <br>    
-                            <button>
+                            
                                 <a href="M40.php" target="_blank"><h2>عــرض المستخــدمين</h2></a>
-                                </button>
+                                
     
                                 <br>
                                 <br>  
-                                <button>
+                                
                                     <a href="M40.php" target="_blank"><h2>ادارة الصــلاحيـــة</h2></a>
-                                    </button>
+                                    
         
                                     <br>
                                     <br>
-            <button>
+            
               
                 <a href="index20.php" target="_blank"><h3> الرجوع الا شاشة المديـر العام</h3></a> 
-                </button>
+                
             </center>
 
 
